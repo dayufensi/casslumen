@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+https://github.com/tangly1024/NotionNext# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "长夜幻光"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "只是想自由书写✍️."
+  location         : "书房"
   email            :
   links:
     - label: "Email"
